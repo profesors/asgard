@@ -26,10 +26,7 @@ La asociación establece su domicilio social en ???? y su ámbito de actuación 
 
 
 
-
-
-
-\ 
+&nbsp;
 
 # II. Órganos de la asociación
 
@@ -39,7 +36,7 @@ Los órganos de gobierno y representación de la Asociación son, respectivament
 
 
 
-\ 
+&nbsp;
 
 # III. Asamblea General
 
@@ -80,7 +77,7 @@ Corresponde a la Asamblea General Extrordinaria la modificación de Estatutos y 
 
 
 
-\ 
+&nbsp;
 
 # IV. Junta Directiva
 
@@ -211,7 +208,7 @@ d) Desempeñar, en su caso, las obligaciones inherentes al cargo que ocupen.
 e) Contribuir con su comportamiento al buen nombre y prestigio de la Asociación.
 
 
-\ 
+&nbsp;
 
 # VI. Régimen de finaciación, contabilidad y documentación
 
@@ -232,7 +229,7 @@ La Asociación se funda con una patrimonio inicial de 300 euros así como los ju
 
 
 
-\ 
+&nbsp;
 
 # VII. Disolución
 
